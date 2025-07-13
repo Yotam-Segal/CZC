@@ -22,14 +22,13 @@
 This extension is not currently available on the Chrome Web Store. You can install it manually using "Developer mode":
 
 1.  **Download the Extension Files**:
-    - [Download the latest release as a ZIP file from here](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/archive/main.zip) (or click on `Code` then `Download ZIP` at the top of the page).
+    - [Download the latest release as a ZIP file from here](https://github.com/Yotam-Segal/CZC/archive/main.zip) (or click on `Code` then `Download ZIP` at the top of the page).
     - Extract the ZIP file to a convenient folder on your computer.
 2.  **Open Chrome Extensions Page**:
     - Launch your Chrome browser.
     - Navigate to: `chrome://extensions`
     - Alternatively, click the **three-dot menu** (Chrome menu) -> **More tools** -> **Extensions**.
 3.  **Enable "Developer mode"**: In the top-right corner of the Extensions page, toggle on the "**Developer mode**" switch.
-    ![Chrome Extensions Developer Mode](https://i.imgur.com/screenshot_of_developer_mode_toggle.png)
 4.  **Load the Extension**:
     - Click the **"Load unpacked"** button that now appears in the top-left corner.
     - In the file dialog, select the **full project folder** you extracted in Step 1 (the folder containing the `manifest.json` file).
