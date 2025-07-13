@@ -1,0 +1,48 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 15px;
+  width: 240px;
+  background-color: #f9f9f9;
+  direction: rtl;
+}
+
+h2 {
+  margin-top: 0;
+  font-size: 18px;
+  color: #333;
+  text-align: center;
+}
+
+label {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 12px;
+  font-size: 14px;
+  background: #fff;
+  padding: 8px 10px;
+  border-radius: 6px;
+  border: 1px solid #ddd;
+}
+
+input[type="checkbox"] {
+  transform: scale(1.2);
+  margin-left: 10px;
+}
+
+button {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  background-color: #4caf50;
+  color: white;
+  font-size: 16px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #45a049;
+}
